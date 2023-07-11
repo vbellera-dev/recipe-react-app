@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/recipe-react-app/static/css/main.9e302d38.css",
+    "main.js": "/recipe-react-app/static/js/main.9325fa80.js",
+    "static/media/spanish.jpg": "/recipe-react-app/static/media/spanish.c650f52fda29acf51928.jpg",
+    "static/media/american.jpg": "/recipe-react-app/static/media/american.0c8e2021296591a53e77.jpg",
+    "static/media/italian.jpg": "/recipe-react-app/static/media/italian.c6124dd9a946dd9b6f00.jpg",
+    "static/media/mexican.jpg": "/recipe-react-app/static/media/mexican.39bfa27eb6eb494086d1.jpg",
+    "static/media/african.jpg": "/recipe-react-app/static/media/african.57d2df19ead33a5bb24c.jpg",
+    "static/media/indian.jpg": "/recipe-react-app/static/media/indian.4cef7d2258efdb960f8c.jpg",
+    "static/media/thai.jpg": "/recipe-react-app/static/media/thai.7f6edbfed83610425ebd.jpg",
+    "static/media/japanese.jpg": "/recipe-react-app/static/media/japanese.e657ebb288c82f7a14dc.jpg",
+    "index.html": "/recipe-react-app/index.html",
+    "main.9e302d38.css.map": "/recipe-react-app/static/css/main.9e302d38.css.map",
+    "main.9325fa80.js.map": "/recipe-react-app/static/js/main.9325fa80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e302d38.css",
+    "static/js/main.9325fa80.js"
+  ]
+}
